@@ -1,0 +1,16 @@
+#check{
+    line-height: 300px;
+    text-align: center;
+}
+#check img{
+    vertical-align: middle;
+    horiz-align: center;
+}
+#form{
+    text-align: center;
+}
+#form input{
+    width : 60pt;
+    height : 60pt;
+    margin: 20px
+}
